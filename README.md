@@ -28,7 +28,7 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/yiji0332)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yiji0332)
 
 
 
