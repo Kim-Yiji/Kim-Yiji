@@ -4,7 +4,7 @@
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-### 🙇 안녕하세요, DATA Analyst로 성장해나가고 있는 김이지입니다!
+### 🙇 안녕하세요, DATA Analyst로 성장해나가고 있는 김이지입니다!(수정중)
 
 <!-- Body -->
 
